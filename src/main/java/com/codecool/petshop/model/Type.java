@@ -1,8 +1,6 @@
 package com.codecool.petshop.model;
 
-import com.google.common.base.Enums;
 import com.google.common.collect.Maps;
-
 import java.util.Map;
 
 public enum Type {

@@ -1,7 +1,6 @@
 package com.codecool.petshop.model;
 
 import com.google.common.collect.Maps;
-
 import java.util.Map;
 
 public enum Brand {
